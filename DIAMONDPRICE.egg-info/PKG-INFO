@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DIAMONDPRICE
+Version: 0.0.1
+Author: Fazal Rehman
+Author-email: fazal.rehman05m@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: flask

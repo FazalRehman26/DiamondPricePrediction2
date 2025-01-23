@@ -1,0 +1,7 @@
+setupp.py
+DIAMONDPRICE.egg-info/PKG-INFO
+DIAMONDPRICE.egg-info/SOURCES.txt
+DIAMONDPRICE.egg-info/dependency_links.txt
+DIAMONDPRICE.egg-info/requires.txt
+DIAMONDPRICE.egg-info/top_level.txt
+src/__init__.py
